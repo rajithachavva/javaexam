@@ -1,1 +1,2 @@
 git is  version control system
+it helps to know changes
