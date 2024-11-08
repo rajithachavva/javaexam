@@ -1,3 +1,4 @@
 git is  version control system
 it helps to know changes
 merge is used to merge feature brnach wit main branch
+git add -add files to the staging area
